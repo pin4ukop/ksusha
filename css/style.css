@@ -255,15 +255,15 @@ section{
     height: 189px;
 }
 #im1{
-    background-image: url(img/Layer-6.jpg);
+    background-image: url(C:\Users\ksusha\Desktop\FrontEnd\dz4\img\Layer-6.jpg);
     background-position: bottom;
 }
-.img2{
-    <img src="img/Layer-8.jpg" alt="">
-}
-.img3{
-    <img src="img/Layer-7.jpg" alt="">
-}
+/*.img2{*/
+    /*<img src="img/Layer-8.jpg" alt="">*/
+/*}*/
+/*.img3{*/
+    /*<img src="img/Layer-7.jpg" alt="">*/
+/*}*/
 /**************************************************section4*/
 .block4{
     display: flex;
